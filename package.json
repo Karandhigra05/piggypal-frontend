@@ -16,3 +16,4 @@
     "@vitejs/plugin-react": "^4.2.0"
   }
 }
+Fix: Add @vitejs/plugin-react
